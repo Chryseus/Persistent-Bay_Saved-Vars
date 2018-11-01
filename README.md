@@ -1,5 +1,5 @@
 # Persistent-Bay_Saved-Vars
-Saved vars needed to get a working persistent server using the Persistent-Bay codebase.
+Saved vars needed to get a working persistent server using the [Persistent-Bay](https://github.com/Persistent-SS13/Persistent-Bay) codebase.
 
 **Installation**
 
