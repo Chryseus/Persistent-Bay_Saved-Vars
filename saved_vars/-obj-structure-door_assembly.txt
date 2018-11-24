@@ -1,0 +1,1 @@
+electronics%0d%0a=&state%0d%0a=&glass%0d%0a=&created_name%0d%0a=&base_name%0d%0a=&airlock_type%0d%0a=&icon%0d%0a=&fill_icon%0d%0a=&panel_icon%0d%0a=&glass_icon%0d%0a=&glass_type%0d%0a=&dir%0d%0a=&anchored%0d%0a=&name%0d%0a=&overlays%0d%0a=&icon_state%0d%0a=&base_icon_state
