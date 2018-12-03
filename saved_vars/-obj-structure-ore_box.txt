@@ -1,1 +1,1 @@
-stored_ore
+stored_ore%0d%0a=&health%0d%0a=&contents

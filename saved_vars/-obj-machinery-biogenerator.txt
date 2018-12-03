@@ -1,1 +1,1 @@
-points
+points%0d%0a=&contents

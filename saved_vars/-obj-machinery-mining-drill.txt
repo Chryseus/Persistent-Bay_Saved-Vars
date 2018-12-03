@@ -1,0 +1,1 @@
+supports%0d%0a=&supported%0d%0a=&active%0d%0a=&resource_field%0d%0a=&health%0d%0a=&anchored%0d%0a=&cell%0d%0a=&capacity%0d%0a=&harvest_speed%0d%0a=&stacks_needed%0d%0a=&contents%0d%0a=&need_player_check%0d%0a=&icon_state
